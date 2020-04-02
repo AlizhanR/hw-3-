@@ -1,0 +1,377 @@
+.загаловок{
+text-align: center;
+font-family: sans-serif;
+margin-top: 0;
+
+}
+.triknop{
+  display: flex;
+  width: fit-content;
+  height: fit-content;
+  margin: 0px auto;
+  margin-top: 100px;
+  margin-right: 300px;
+  
+  
+ 
+}
+.triknop button{
+  padding: 30px 100px;
+  background-color:white;
+  border-bottom: solid rgb(85, 85, 85) 3px;
+  border-top: white;
+  border-left: white;
+  border-right: white;
+  
+
+}
+.triknop a{
+  font-family: Arial;
+  font-size: medium;
+  font-weight: bolder;
+  color: rgb(48, 48, 136);
+  text-decoration: none;
+  padding: 10px 75px;
+  cursor: pointer;
+  border-bottom: 3px solid rgb(206, 206, 206);
+}
+.triknop a:last-child{
+  padding-left: 90px;
+}
+.triknop a:hover{
+    
+  border-bottom: 5px solid #F9A826;
+  cursor: pointer;
+}
+.text{
+  font-family: sans-serif;
+  margin-top: 60px;
+  width: fit-content;
+  margin-left: 223px;
+}
+.кнопка{
+  background-color:#F9A826;
+  text-align: center;
+  border-radius:5px;
+  padding:14px 25px;
+  font-size: 14px; 
+  box-shadow: #F9A826 3px 4px 15px;
+  color: white;
+}
+.mobileapp{
+  float: right;
+  width: 650px;
+  margin-right: 230px;
+  padding-left: 0px;
+}
+
+.низ{  
+  margin-top: 10px;
+  position: relative;
+  height: 500px; 
+}
+.box{
+  margin:auto;
+  background-color:rgb(247, 241, 228) ;
+  width: 1300px;
+  height: 600px;
+  margin-top: 150px;
+}
+.quot{
+  margin-top: 60px;
+  width: 70px;
+  margin-left: 250px;
+}
+.midle{
+  margin: auto;
+  width:fit-content ;
+    height: fit-content;
+    margin-top: 20px;
+}  
+.words p{
+  font-family:sans-serif;
+  font-style: oblique;
+  letter-spacing: 2px;
+  text-align: center;
+  line-height: 140%;
+  color:rgb(48, 48, 136);
+  font-size: 20px;
+} 
+.photoname{
+    margin: 0 auto;
+    width: 300px;
+}
+.salamat{
+  border-radius: 200px;
+  width: 80px;
+  margin-right: 25px;
+  float: left;}
+ 
+.nameofsala{
+    line-height: 70%;
+}
+.sala{
+  font-family: Arial;
+  font-weight: bold;
+  color:rgb(57, 67, 105) ;
+  font-size:16px ;
+  margin-top: 5px;
+}
+.face1{
+  border-radius: 200px;
+  width: 60px;
+  margin-right: 15px;
+  float: left;
+  margin-top: 250px;
+  margin-left: 20px;
+  border: white solid 4px;
+}
+.face2{
+  border-radius: 200px;
+    width: 50px;
+    margin-right: 15px;
+    float: left;
+    margin-top: 450px;
+    border: white solid 4px;
+}
+.face3{
+  border-radius: 200px;
+  width: 70px;
+  margin-right: 15px;
+  float: left;
+  margin-top: 130px;
+  border: white solid 4px;
+
+
+}
+.face4{
+  border-radius: 200px;
+  width: 70px;
+  margin-right: 15px;
+  float: left;
+  margin-top: 300px;
+  border: white solid 4px;
+}
+.face5{
+  border-radius: 200px;
+  width: 70px;
+  margin-right: 15px;
+  float: right;
+  margin-top: 250px;
+  margin-left: 20px;  
+  border: white solid 4px;
+}
+.face6{
+  border-radius: 200px;
+  width: 80px;
+  margin-right: 15px;
+  float: right;
+  margin-top: 400px; 
+  border: white solid 4px;
+}
+.face7{
+  border-radius: 200px;
+  width: 70px;
+  margin-right: 15px;
+  float: right;
+  margin-top: 130px;
+   border: white solid 4px;
+}
+.face8{
+  border-radius: 200px;
+  width: 60px;
+  margin-right: 15px;
+  float: right;
+  margin-top: 300px; 
+  border: white solid 4px;
+}
+
+
+
+
+
+
+.box2{
+  width: 1500px;
+  height: 800px;
+  margin-left: -90px;
+  margin: auto;
+  
+}
+.картинка1{
+  width: 900px;
+  float: left;
+  margin-top: 50px;
+
+}
+.inf{
+  float: right;
+  height: fit-content;
+  width: fit-content;
+  margin-right: 200px;
+  margin-top: 100px;
+
+}
+.help{
+font-family:sans-serif;  
+font-weight: bold;
+font-size: 40px;
+margin-top: 5px;
+color: rgb(48, 48, 136);
+}
+
+.имяпочта{
+  font-family: sans-serif;
+  font-weight: lighter;
+  color: rgb(48, 48, 136);
+  font-size: 20px;
+}
+.имя2{
+  border-style: solid;
+  background-color: rgb(255, 244, 244);
+  padding: 15px;
+  padding-left: 20px;
+  padding-right: 160px;
+  border-color:#F9A826;
+  border-radius: 5px;
+  border-width: 2px;
+  color: rgb(158, 178, 209);
+}
+.почта2{
+  border-style: solid;
+  background-color: rgb(255, 255, 255);
+  padding: 15px;
+  padding-left: 20px;
+  padding-right: 160px;
+  border-color: rgb(196, 196, 196);
+  border-radius: 5px;
+  border-width: 2px;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+.get{
+  background-color: #F9A826;
+  box-shadow: #F9A826 3px 4px 15px;
+  border-style: none;
+  color: white;
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 20px;
+  padding-right: 14px;
+  text-align: center;
+  margin-top: 30px;
+ 
+}
+.box3{
+  background-color:rgb(41, 41, 73);
+  width: 1500px;
+  height: 700px;
+}
+.textend{
+  margin-left: 500px;
+  margin-top: 150px;
+  float: left;
+  width: fit-content;
+  height: fit-content;
+  
+}
+.white{
+font-family:sans-serif;  
+font-weight: bold;
+font-size: 40px;
+margin-top: 5px;
+color: rgb(255, 255, 255);
+}
+.white{
+  margin: 0px auto;
+}
+.white1{
+  font-family:sans-serif;  
+  font-weight: bold;
+  font-size: 40px;
+  margin-top: 5px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  }
+.box4{
+  margin-top: 100px;
+}
+.buttonse{
+  height: fit-content;
+  width: fit-content;
+  display: flex;
+  float: right;
+  margin-right: 570px;
+  margin-top: px;
+}
+.end1{
+  background-color: #F9A826;
+  border-style: none;
+  font-family: sans-serif;
+  color: white;
+  border-radius: 5px;
+  font-size: 15px;
+  padding: 14px 25px;
+  text-align: center;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.end2{
+  border-style: solid;
+  background-color: rgb(72, 73, 112);
+  color: rgb(196, 196, 196);
+  padding: 14px;
+  padding-left: 25px;
+  padding-right: 100px;
+  border-color: rgb(85, 86, 126);
+  border-radius: 5px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  margin-top: 30px;
+}
+.roman{
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.grey{
+  color: rgb(126, 126, 126);
+  font-family: sans-serif;
+  font-size: 10px;
+}
+.liiii li{
+  font-family: sans-serif;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  margin-left: 20px;
+  display: flex;
+}
+ul{
+  display: flex;
+float: right;
+  width: fit-content;
+  height: fit-content;
+  margin-bottom: 200px;
+}
+.asd{
+  float: right;
+  margin-top: 50px;
+  width: fit-content;
+  height: fit-content;
+}
+
+  
+
+.qaz{
+  margin-top: 100px;
+  float: left;
+  width: 1500px;
+  height: 500px; 
+}
+.left3{
+  float: left;
+  margin-left: 40px;
+  width: fit-content;
+  height: fit-content;
+}
+
